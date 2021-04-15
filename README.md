@@ -8,7 +8,7 @@ Currently the project has a client written in c/c++, to keep the executable as s
 ## Compiling
 Currently only works in a Windows environment
 ```
-g++ -std=gnu++11 ..\Documents\client.cpp -o client.exe -s -lws2_32 -Wno-write-strings -fno-exceptions -fmerge-all-constants -static-libstdc++ -static-libgcc
+g++ -std=gnu++11 client.cpp -o client.exe -s -lws2_32 -Wno-write-strings -fno-exceptions -fmerge-all-constants -static-libstdc++ -static-libgcc
 ```
 
 ## TODO
