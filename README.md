@@ -55,6 +55,6 @@ Available remote commands:
 File upload/download:
   get - Download file from current working directory to the server
     Example: get passwords.txt
-put - Upload file from server to the current working directory @ client
+  put - Upload file from server to the current working directory @ client
     Example: put secretbackdoor.exe
 ```
