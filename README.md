@@ -1,7 +1,7 @@
 # Basic C2
 ## About
 This code is a work in progress, and is still messy and unoptimized. This repo currently functions as a backup of a working version of this C2.
-I'm creating this project because i want to improve my knowledge on malware and it's inner workings.
+I'm creating this project because i want to improve my knowledge on malware and its inner workings.
 
 Currently the project has a client written in c/c++, to keep the executable as small as possible, and a server written in Python which supports multiple bots.
 
