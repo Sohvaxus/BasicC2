@@ -1,4 +1,4 @@
-# Basic C2
+# Basic C2 - OUTDATED CODE
 ## About
 This code is a work in progress, and is still messy and unoptimized. This repo currently functions as a backup of a working version of this C2.
 I'm creating this project because i want to improve my knowledge on malware and its inner workings.
